@@ -1,7 +1,7 @@
 # MouXeL
 Privacy Policy for MouXeL
 
-|![MouxeL Logo1](https://user-images.githubusercontent.com/119645807/205217235-475f85f6-4afa-4276-bff3-5b8d82bb37b2.png)|![MouxeL Logo2](https://user-images.githubusercontent.com/119645807/205217267-d35b3df8-b0da-46ed-b9ac-6c0cb632c48e.png)|
+| ![MouxeL Logo1](https://user-images.githubusercontent.com/119645807/205217235-475f85f6-4afa-4276-bff3-5b8d82bb37b2.png) | ![MouxeL Logo2](https://user-images.githubusercontent.com/119645807/205217267-d35b3df8-b0da-46ed-b9ac-6c0cb632c48e.png) |
 
 # Privacy Policy
 
