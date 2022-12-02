@@ -1,6 +1,8 @@
 # MouXeL
 Privacy Policy for MouXeL
-![Slide10](https://user-images.githubusercontent.com/119645807/205215875-771e5048-da96-4642-b969-d603072bdebd.png)
+
+![MouxeL Logo1](https://user-images.githubusercontent.com/119645807/205217235-475f85f6-4afa-4276-bff3-5b8d82bb37b2.png)![MouxeL Logo2](https://user-images.githubusercontent.com/119645807/205217267-d35b3df8-b0da-46ed-b9ac-6c0cb632c48e.png)
+
 # Privacy Policy
 
 Rintaro Imada built the MouXeL app as a Commercial app. This SERVICE is provided by Rintaro Imada and is intended for use as is.
