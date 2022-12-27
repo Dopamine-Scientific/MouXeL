@@ -2,7 +2,7 @@
 |-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 # Privacy Policy
 
-Rintaro Imada built the MouXeL app as a Commercial app. This SERVICE is provided by Rintaro Imada and is intended for use as is.
+Rintaro Imada（今田倫太郎） built the MouXeL app as a Commercial app. This SERVICE is provided by Rintaro Imada / Dopamine Scientific and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
